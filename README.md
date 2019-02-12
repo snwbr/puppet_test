@@ -1,5 +1,4 @@
-# puppet_test
-Puppet Test
+# Puppet Test - Move files to different locations
 
 In order to run use: `puppet apply movefilesdirs.pp` (add `-v` for verbosity)
 
