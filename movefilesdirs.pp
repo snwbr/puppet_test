@@ -1,8 +1,8 @@
 $workdir = "/var/save/puppet_move_3"
 $folders = ["${workdir}/files",
-			"${workdir}/files/text",
-			"${workdir}/files/script",
-			"${workdir}/files/code"]
+	"${workdir}/files/text",
+	"${workdir}/files/script",
+	"${workdir}/files/code"]
 $command = "/bin/mv"
 
 define common {
